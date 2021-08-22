@@ -42,6 +42,9 @@ Resultado: {'name': 'João'}
 No colors-rgb.js apresente o nome da cor e o codigo RGB como no exemplo: "gainsboro - rgb(220, 220, 220, 1)"
 No estados-cidade.js apresente o nome do Estado, a sigla e todas as cidadades, sem arrays aparentes no console
 No filmes.js apresente titulo, plot, generos e lingua. Genero e lingua devem ser apresentados em arrays no console.
-Defina o conceito de idempotência e como uma API pode ser idempotente
 
-Cite alguns diferentes padrões de projetos de software
+# 4 - Defina o conceito de idempotência e como uma API pode ser idempotente
+
+
+
+# 5 - Cite alguns diferentes padrões de projetos de software
